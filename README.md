@@ -9,3 +9,5 @@
 <br>
 <h2>Approach taken:</h2>
   <p>Used CSS and HTML for style and structure.  The design was completed from scratch and the Google Maps API integrated using JavaScript.</p>
+<br>
+  <p>This design was made fully responsive for mobile and tablet devices.
